@@ -6,7 +6,6 @@ sa1
 sa2
 sysstat
 crontab
-version.h
 sysconfig.h
 prealloc.h
 sysstat.sysconfig
